@@ -38,7 +38,7 @@ CelularModel/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/CelularModel.git
+   git clone https://github.com/seuusuario/CelularModel.git](https://github.com/digitalinnovationone/trilha-net-poo-desafio)
 
 
 Contribuições
